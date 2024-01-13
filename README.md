@@ -57,4 +57,4 @@
 ### Проекты
 - [Verba](https://github.com/Verba-App) - помощник в изучении английского
 - [Дипломный проект](https://github.com/DetectionNetworkTrafficAnomaliesForICS): Применение нейросетей для анализа сетевого трафика АСУ ТП
-- [OrderGenius](www.ordergenius.ru)
+- [OrderGenius](https://www.ordergenius.ru)
